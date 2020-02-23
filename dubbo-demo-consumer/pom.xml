@@ -5,14 +5,13 @@
     <artifactId>dubbo-demo-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>dubbo-demo-provider</artifactId>
+  <artifactId>dubbo-demo-consumer</artifactId>
   <dependencies>
   	<dependency>
   		<groupId>com.lumengjun.zuoye</groupId>
   		<artifactId>dobbo-demo-interfaces</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
-  	
   	
   	<!-- 链接zookeeper 使用 -->
 	<dependency>
